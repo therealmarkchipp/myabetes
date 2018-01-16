@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 
 /**
+ * Tool for diabetics to calculate insulin bolus dose for carbohydrates consumed, blood glucose
+ * corrections, and tracking history of carbs, glucose and boluses.
  * Created by mark on 15/01/18.
  * Todo: Try/Catch input errors, include active insulin in bolus calculation
  */
